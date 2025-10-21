@@ -1,4 +1,5 @@
 AI Fundamentals: Pacman Projects
+
 Course: Fundamentals of Artificial Intelligence
 University: KU Leuven
 Program: Master of Artificial Intelligence (Erasmus 2024-2025)
