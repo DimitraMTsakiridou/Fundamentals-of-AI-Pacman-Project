@@ -9,6 +9,7 @@ Program: Master of Artificial Intelligence (Erasmus 2024-2025)
 Source: Based on the CS188 Pacman projects from UC Berkeley
 
 Overview
+
 This repository contains my implementations for the classic Pacman projects developed at UC Berkeley. The assignments are designed to teach foundational AI concepts by having students build intelligent agents for the game of Pacman.
 
 Topics Covered
